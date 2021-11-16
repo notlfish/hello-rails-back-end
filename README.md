@@ -39,6 +39,9 @@ Response: json : {
     'greeting': <randomly chosen greeting from database>
 }
 
+## App front-end
+This app's frontend is [here](https://github.com/notlfish/hello-react-front-end).
+
 ## Author
 
 👤 **Lucas Ferrari Soto**
